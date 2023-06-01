@@ -1,1 +1,1 @@
-# Wedtechnotes
+# Weekly Web tech notes
